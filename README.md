@@ -1,5 +1,9 @@
-# package-puppeteer-core-esm
-This is a Incremental Pre step before we refactored it complet
+# module-puppeteer
+Puppeteer Build as single ESModule includes injectes as variable ```source =  ```
+
+## TODO:
+- Update to work with base64 import of injects
+- improve the gitrepo build which is wired or lets say wiered
 
 
 ## Init for dev
