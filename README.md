@@ -5,6 +5,7 @@ Puppeteer Build as single ESModule includes injectes as variable ```source =  ``
 - Update to work with base64 import of injects
 - improve the gitrepo build which is wired or lets say wiered
 - Build the Browser Version
+- https://github.com/lemanschik/puppeteer includes some incremental changes.
 
 
 ## Init for dev
